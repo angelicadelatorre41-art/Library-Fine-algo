@@ -1,1 +1,1 @@
-# Library-Fine-algo
+# Library-Fine-algo The function compares the return date to the due date and calculates the fine based on whether the book is late by days, months, or years. It returns 0 if the book is on time, 15 per day if late within the same month and year, 500 per month if late within the same year, and 10000 if late by years.
